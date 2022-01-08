@@ -25,3 +25,4 @@ How to use:
 1) Make sure your usergroup on the server is a group that has access to the 'ulx warn' command
 2) ulx warn or !warn yourself or someone else
 3) Open the menu and you can see the warning is there!
+4) Right click on any warning line and you can Copy, Edit or Remove any warning
