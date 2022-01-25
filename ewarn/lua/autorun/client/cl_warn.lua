@@ -43,7 +43,7 @@ function ewarn.OpenWarns()
     stat.Paint = function(s,w,h)
         surface.SetDrawColor(ewarn.bglight)
 		surface.DrawRect(0,0,w,h)
-        draw.SimpleText(stat.Warn,"WLFontUI",w/2,h/2,rainbow,TEXT_ALIGN_CENTER,TEXT_ALIGN_CENTER)
+        draw.SimpleText(stat.Warn,"EWarnFontUI",w/2,h/2,rainbow,TEXT_ALIGN_CENTER,TEXT_ALIGN_CENTER)
     end
 
     local players = vgui.Create("DListView",frame)
